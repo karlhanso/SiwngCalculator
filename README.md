@@ -1,4 +1,2 @@
-# SiwngCalculator  
-4.7  Ex: SwingCalculator
-Exercise from ntu-singapur webside
+# 4.7  Ex: SwingCalculator - NTU-Singapore
 https://www3.ntu.edu.sg/home/ehchua/programming/java/GraphicsExercises.html
