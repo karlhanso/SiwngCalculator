@@ -8,4 +8,4 @@ A basic calculator made with java swing
 
 ![GitHub watchers](https://img.shields.io/github/watchers/karlhanso/SwingCalculator)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/karlhanso/SwingCalculator)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cade7ee91e364ac3b420d07b1ce2e0e4)](https://app.codacy.com/gh/karlhanso/Connect4/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cade7ee91e364ac3b420d07b1ce2e0e4)](https://app.codacy.com/gh/karlhanso/SwingCalculator/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
