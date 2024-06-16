@@ -1,5 +1,4 @@
 # 4.7  Ex: SwingCalculator - NTU-Singapore
-
 ![My Image](photo.png)
 
 A basic calculator made with java swing 
