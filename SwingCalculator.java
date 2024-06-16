@@ -17,7 +17,7 @@ public class SwingCalculator extends JFrame {
     private char previousOpr = ' ';
     private char currentOpr = ' ';
     private JButton[] btnNumers;
-    private JButton cbtn;
+    
     private JButton zerobtn;
     private JButton equalBtn;
     private JButton plusBtn;
@@ -26,7 +26,7 @@ public class SwingCalculator extends JFrame {
     private JButton divisonbtn;
 
     public SwingCalculator() {
-
+        private JButton cbtn;
         Container cp = getContentPane();
         cp.setLayout(new BorderLayout());
         tfDisplay = new JTextField(10);
