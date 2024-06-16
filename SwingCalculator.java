@@ -24,9 +24,10 @@ public class SwingCalculator extends JFrame {
     private JButton minusbtn;
     private JButton multiplicationBtn;
     private JButton divisonbtn;
+    private JButton cbtn;
 
     public SwingCalculator() {
-        private JButton cbtn;
+        
         Container cp = getContentPane();
         cp.setLayout(new BorderLayout());
         tfDisplay = new JTextField(10);
