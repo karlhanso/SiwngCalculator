@@ -5,6 +5,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/karlhanso/SwingCalculator)
 
 A basic calculator made with java swing 
+
 ![My Image](photo.png)
 
 <https://www3.ntu.edu.sg/home/ehchua/programming/java/GraphicsExercises.html.>
